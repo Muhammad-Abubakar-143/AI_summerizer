@@ -11,7 +11,7 @@ const Hero = () => {
         <button
           type='button'
           onClick={() =>
-            window.open("", "_blank")
+            window.open("https://github.com/abbiimughal/AI_summerizer", "_blank")
           }
           className='black_btn'
         >
